@@ -1,0 +1,5 @@
+{/* view all */}
+    <div className="flex items-center">
+      <span>View all</span>
+      <RiArrowRightSLine size={20} />
+    </div>
